@@ -1,0 +1,6 @@
+Solution 
+3-Phase supply from overhead lines is secured via a 3-pole MCB and 
+fed to a phase-protection relay. The relay instantly trips on detecting
+the phase angle/fault anomalies, outputting a 5 V fault signal. The LoRa 
+module transmits fault data wirelessly to the control station. The receiver Arduino 
+triggers a buzzer and display update, showing device ID and fault type for rapid fault isolation.

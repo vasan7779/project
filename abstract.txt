@@ -1,0 +1,3 @@
+Design and implement a low-cost, reliable system capable of 
+detecting breakages or faults in low-voltage AC overhead distribution conductors 
+to ensure timely maintenance and uninterrupted power supply.
